@@ -32,12 +32,6 @@ continua e al costante aggiornamento sulle tecnologie più recenti del settore.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
----
-
-## 🔥 Progetti in evidenza
-
-- 🗂️ [**Portfolio Web**](https://github.com/DavideIeria99/PortFolio25): Sito personale per mostrare le mie competenze e progetti.
-- 📙 [**pokedex**](https://github.com/DavideIeria99/Pokedex): App React per visualizzare le infomazioni del pokemon.
 
 
 ---
